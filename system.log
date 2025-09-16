@@ -1,0 +1,77 @@
+2025-09-15 23:19:57,189 - WARNING - Signup failed: Invalid password length
+2025-09-15 23:20:12,568 - INFO - User 'neha' added with role 'user'
+2025-09-15 23:20:12,569 - INFO - User 'neha' registered successfully with role 'user'
+2025-09-15 23:20:25,362 - WARNING - User 'neha' validation failed: Invalid credentials or unverified
+2025-09-15 23:20:25,363 - WARNING - Login failed for 'neha': Invalid credentials or unverified
+2025-09-15 23:20:42,945 - ERROR - Error in main_menu: Invalid salt
+2025-09-15 23:22:12,355 - INFO - System shutdown
+2025-09-15 23:22:16,264 - INFO - Default admin account created
+2025-09-15 23:22:29,811 - INFO - User 'admin' validated successfully
+2025-09-15 23:22:29,812 - INFO - User 'admin' logged in with role 'admin'
+2025-09-15 23:22:33,599 - ERROR - Database error in verify_user: no such column: user_type
+2025-09-15 23:22:56,587 - INFO - User 'neha' added with role 'user'
+2025-09-15 23:22:56,587 - INFO - User 'neha' registered successfully with role 'user'
+2025-09-15 23:23:06,143 - INFO - User 'admin' validated successfully
+2025-09-15 23:23:06,143 - INFO - User 'admin' logged in with role 'admin'
+2025-09-15 23:23:09,161 - ERROR - Database error in verify_user: no such column: user_type
+2025-09-15 23:30:34,503 - INFO - User 'admin' validated successfully
+2025-09-15 23:30:34,504 - INFO - User 'admin' logged in with role 'admin'
+2025-09-15 23:30:39,100 - ERROR - Database error in verify_user: no such column: user_type
+2025-09-16 09:10:05,929 - ERROR - Database error in add_user for 'anagha': table users has no column named user_type
+2025-09-16 09:10:05,930 - WARNING - Failed to register user 'anagha': Username already exists
+2025-09-16 09:21:28,214 - INFO - System shutdown
+2025-09-16 09:43:00,613 - WARNING - Signup failed: Invalid password length
+2025-09-16 09:43:35,939 - ERROR - Database error in add_user for 'abhi': table users has no column named user_type
+2025-09-16 09:43:35,940 - WARNING - Failed to register user 'abhi': Username already exists
+2025-09-16 09:48:50,242 - ERROR - System error: cannot access local variable 'e' where it is not associated with a value
+2025-09-16 09:53:11,631 - ERROR - Database error in add_user for 'abhi': table users has no column named user_type
+2025-09-16 09:53:54,222 - INFO - Default admin account created
+2025-09-16 09:54:18,321 - INFO - User 'abhi' added with role 'user' and user_type 'student'
+2025-09-16 09:54:49,289 - WARNING - User 'abhi' validation failed: Invalid credentials or unverified
+2025-09-16 09:55:12,280 - INFO - User 'admin' validated successfully
+2025-09-16 09:55:29,917 - ERROR - Database error in verify_user: database is locked
+2025-09-16 09:59:16,060 - INFO - Default admin account created
+2025-09-16 09:59:42,973 - INFO - User 'abhi' added with role 'user' and user_type 'student'
+2025-09-16 09:59:51,724 - INFO - User 'admin' validated successfully
+2025-09-16 10:00:03,313 - ERROR - Database error in verify_user: database is locked
+2025-09-16 10:04:16,428 - ERROR - Database error in verify_user: database is locked
+2025-09-16 10:05:36,799 - INFO - User 'admin' validated successfully
+2025-09-16 10:05:49,132 - ERROR - Database error in verify_user: database is locked
+2025-09-16 10:07:30,920 - INFO - User 'admin' validated successfully
+2025-09-16 10:07:45,872 - ERROR - Database error in verify_user: database is locked
+2025-09-16 10:20:07,523 - INFO - User 'admin' validated successfully
+2025-09-16 10:20:30,109 - WARNING - Failed to create notification for user 'abhi': database is locked
+2025-09-16 10:20:30,113 - INFO - User 'abhi' verified successfully
+2025-09-16 10:21:13,117 - INFO - User 'abhi' validated successfully
+2025-09-16 10:24:16,098 - INFO - User 'abhi' validated successfully
+2025-09-16 10:34:16,705 - INFO - User 'neha' added with role 'user' and user_type 'student'
+2025-09-16 10:35:05,451 - INFO - User 'pooja' added with role 'user' and user_type 'student'
+2025-09-16 10:36:07,701 - INFO - User 'afra' added with role 'user' and user_type 'student'
+2025-09-16 10:36:21,681 - INFO - User 'admin' validated successfully
+2025-09-16 10:36:39,759 - INFO - User 'afra' verified successfully
+2025-09-16 10:36:46,005 - INFO - User 'pooja' verified successfully
+2025-09-16 10:36:52,683 - INFO - User 'neha' verified successfully
+2025-09-16 10:37:04,671 - INFO - Resource ID 1 approved successfully
+2025-09-16 10:37:11,235 - INFO - Resource ID 2 approved successfully
+2025-09-16 10:38:52,734 - WARNING - Category ID 5 not found for edit
+2025-09-16 10:41:11,125 - WARNING - User 'neha' validation failed: Invalid credentials or unverified
+2025-09-16 10:41:36,088 - INFO - User 'abhi' validated successfully
+2025-09-16 10:44:29,809 - INFO - User 'afra' validated successfully
+2025-09-16 10:46:55,533 - INFO - User 'abhi' validated successfully
+2025-09-16 10:49:00,324 - WARNING - User 'neha' validation failed: Invalid credentials or unverified
+2025-09-16 11:11:45,044 - INFO - User 'afra' validated successfully
+2025-09-16 11:23:05,655 - INFO - User 'admin' validated successfully
+2025-09-16 11:23:24,896 - INFO - No pending resources for rejection
+2025-09-16 11:23:35,452 - INFO - System statistics viewed successfully
+2025-09-16 11:26:22,659 - WARNING - Invalid hex color 'blue', using default #007bff
+2025-09-16 11:26:22,665 - INFO - Category 'Important' added by admin
+2025-09-16 11:49:16,888 - INFO - User 'abhii' added with role 'user' and user_type 'student'
+2025-09-16 11:49:30,487 - INFO - User 'admin' validated successfully
+2025-09-16 11:49:43,183 - INFO - User 'abhii' verified successfully
+2025-09-16 11:50:30,088 - INFO - System statistics viewed successfully
+2025-09-16 11:50:36,719 - INFO - System statistics viewed successfully
+2025-09-16 11:50:39,897 - INFO - System statistics viewed successfully
+2025-09-16 11:51:06,411 - INFO - System statistics viewed successfully
+2025-09-16 11:51:19,593 - INFO - User 'abhii' validated successfully
+2025-09-16 11:59:40,338 - INFO - User 'abhii' validated successfully
+2025-09-16 12:01:52,688 - INFO - User 'abhii' validated successfully
