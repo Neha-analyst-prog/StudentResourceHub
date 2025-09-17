@@ -16,7 +16,7 @@ EXPORTS_DIR = "exports"
 
 def get_connection():
     """Create a new SQLite connection with foreign keys enabled."""
-    conn = sqlite3.connect(DB_FILE)
+    conn = sqlite3.connect(DB_FILE, timeout=30.0)
     conn.execute("PRAGMA foreign_keys = ON;")
     return conn
 
